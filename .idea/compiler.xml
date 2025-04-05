@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="albbcloud-api" />
+        <module name="albbcloud-gateway" />
+        <module name="albbcloud-servicetest" />
+        <module name="albbcloud-webtest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="albbcloud" target="1.8" />
+      <module name="albbcloud-api" target="1.8" />
+      <module name="albbcloud-gateway" target="1.8" />
+      <module name="albbcloud-servicetest" target="1.8" />
+      <module name="albbcloud-webtest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

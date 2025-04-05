@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/albbcloud.iml" filepath="$PROJECT_DIR$/.idea/albbcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albbcloud-api/albbcloud-api.iml" filepath="$PROJECT_DIR$/albbcloud-api/albbcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albbcloud-gateway/albbcloud-gateway.iml" filepath="$PROJECT_DIR$/albbcloud-gateway/albbcloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albbcloud-servicetest/albbcloud-servicetest.iml" filepath="$PROJECT_DIR$/albbcloud-servicetest/albbcloud-servicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albbcloud-webtest/albbcloud-webtest.iml" filepath="$PROJECT_DIR$/albbcloud-webtest/albbcloud-webtest.iml" />
+    </modules>
+  </component>
+</project>
